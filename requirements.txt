@@ -1,6 +1,0 @@
-pyrogram
-tgcrypto
-yt-dlp
-mega.py
-flask
-psutil
